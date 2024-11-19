@@ -1,10 +1,8 @@
-```markdown
-# Exploratory Data Analysis on Terrorism
+Exploratory Data Analysis on Terrorism
 
-## Overview
+Overview
+
 This project is an exploratory data analysis (EDA) study focusing on terrorism. The goal is to understand patterns, trends, and insights related to global terrorism incidents. The analysis leverages data visualization and statistical techniques to explore key variables, identify relationships, and draw meaningful conclusions about the dataset.
-
----
 
 ## Observations 
 
